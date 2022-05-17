@@ -15,4 +15,4 @@ Analysis of the heart disease patient dataset with proper model building.
 
 
 ## Credits
-Dataset obtained from: https://www.kaggle.com/rashikrahmanpritom/heart-attack-analysis- prediction-dataset
+Dataset obtained from: https://www.kaggle.com/rashikrahmanpritom/heart-attack-analysis-prediction-dataset
