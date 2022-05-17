@@ -8,9 +8,9 @@ Analysis of the heart disease patient dataset with proper model building.
 
 (/) Train script
 
-(x) No deployment script
+(x) Deployment script
 
-(x) No web apps
+(x) Web apps
 
 
 
