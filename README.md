@@ -6,13 +6,15 @@ Analysis of the heart disease patient dataset with proper model building.
 
 ## Notes
 
-(/) Train script
+√ Train script
 
-(x) Deployment script
+√ Deploy script --> but not working.. 
 
-(x) Web apps
-
-
+- will continue finish this project in the future after i recover from burnout!
 
 ## Credits
-Dataset obtained from: https://www.kaggle.com/rashikrahmanpritom/heart-attack-analysis-prediction-dataset
+Dataset obtained from: 
+https://www.kaggle.com/rashikrahmanpritom/heart-attack-analysis-prediction-dataset
+
+Guidance from:
+https://www.analyticsvidhya.com/blog/2022/02/heart-disease-prediction-using-machine-learning/
