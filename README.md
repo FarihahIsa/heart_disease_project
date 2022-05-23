@@ -10,7 +10,7 @@ Analysis of the heart disease patient dataset with proper model building.
 
 √ Deploy script --> but not working.. 
 
-- will continue finish this project in the future after i recover from burnout!
+- will continue to fix this project in the future.
 
 ## Credits
 Dataset obtained from: 
